@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+a {
+  background-color: black;
+}
+
+a:hover {
+  background-color: blue;
+}
+
+.section-title {
+  background-color: navajowhite;
+  font-size: 30px;
+  text-align: center;
+  width: 50vw;
+  height: 200px;
+}
+
+#more-important {
+  background-color: red;
+  font-size: 50px;
+  float: right;
+}
+
+.horizontal {
+  display: inline-block;
+}
